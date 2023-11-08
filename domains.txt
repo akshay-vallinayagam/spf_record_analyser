@@ -1,0 +1,3 @@
+_spf.example.com
+_example1.com
+example2.com
